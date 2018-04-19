@@ -7,3 +7,4 @@ Some ideas to be implemented.
 * 校内回家同行APP
 * 批量重命名APP
 * 上大回忆网站
+* Android表情包应用开发 已有API：[斗图吧](https://www.doutula.com/apidoc)
